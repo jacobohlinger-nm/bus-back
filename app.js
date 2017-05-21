@@ -4,11 +4,13 @@
 import express from 'express';
 import profiles from './api/profiles';
 import * as busDB from './db/busDB';
-
+import bodyParser from 'body-parser';
 let app = new express();
+app.use(bodyParser.json());
 
 
 app.use('/api/profiles', profiles);
+
 
 app.get('/', (req, res) => {
     return res.send('ok');

@@ -15,7 +15,14 @@ profiles.get('/', (req,res) => {
 });
 
 profiles.post('/:profileId', (req,res) => {
-    res.send(req.params.profileId);
+    let profiles  = busDB.get().collection('profiles');
+    profiles.insertOne({...req.body, _id: req.params.profileId}).then( (result) => {
+        res.end();
+    }).catch((err) => {
+        console.log(err);
+        res.status(500);
+        res.end();
+    });
 });
 
 export default profiles;
