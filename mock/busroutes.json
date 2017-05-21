@@ -1,0 +1,307 @@
+[
+  {
+    "id": "GOL",
+    "name": "GOL Wisconsin Avenue-UWM",
+    "color": "#cc9900"
+  },
+  {
+    "id": "GRE",
+    "name": "GRE Bayshore-Airport",
+    "color": "#007044"
+  },
+  {
+    "id": "BLU",
+    "name": "BLU Fond du Lac-National",
+    "color": "#005098"
+  },
+  {
+    "id": "RED",
+    "name": "RED Capitol Drive",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "PUR",
+    "name": "PUR 27th Street",
+    "color": "#660099"
+  },
+  {
+    "id": "RR1",
+    "name": "RR1 Ronald Reagan HS via Rt. 19",
+    "color": "#666666"
+  },
+  {
+    "id": "RR2",
+    "name": "RR2 Ronald Reagan HS via Rt. 27",
+    "color": "#666666"
+  },
+  {
+    "id": "RR3",
+    "name": "RR3 Ronald Reagan HS via Rt. 23",
+    "color": "#666666"
+  },
+  {
+    "id": "6",
+    "name": "6 New Berlin Ind. Park Express",
+    "color": "#00539f"
+  },
+  {
+    "id": "12",
+    "name": "12 Teutonia-Hampton",
+    "color": "#8dc63f"
+  },
+  {
+    "id": "14",
+    "name": "14 Humboldt-Forest Home",
+    "color": "#00539f"
+  },
+  {
+    "id": "15",
+    "name": "15 Holton-Kinnickinnic",
+    "color": "#f58220"
+  },
+  {
+    "id": "17",
+    "name": "17 Canal Street",
+    "color": "#00aeef"
+  },
+  {
+    "id": "19",
+    "name": "19 MLK Jr. Dr. - S. 13th & S. 20th",
+    "color": "#ffdd00"
+  },
+  {
+    "id": "21",
+    "name": "21 North Avenue",
+    "color": "#00aeef"
+  },
+  {
+    "id": "22",
+    "name": "22 Center Street",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "23",
+    "name": "23 FDL-National (Local)",
+    "color": "#f58220"
+  },
+  {
+    "id": "27",
+    "name": "27 27th Street (Local)",
+    "color": "#812990"
+  },
+  {
+    "id": "28",
+    "name": "28 108th Street",
+    "color": "#ffdd00"
+  },
+  {
+    "id": "30",
+    "name": "30 Sherman-Wisconsin",
+    "color": "#33cc99"
+  },
+  {
+    "id": "30X",
+    "name": "30X Sherman-Wisconsin Express",
+    "color": "#33cc99"
+  },
+  {
+    "id": "31",
+    "name": "31 State-Highland",
+    "color": "#0db14b"
+  },
+  {
+    "id": "33",
+    "name": "33 Vliet-Juneau",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "35",
+    "name": "35 35th Street",
+    "color": "#8dc63f"
+  },
+  {
+    "id": "40",
+    "name": "40 College-Ryan Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "40U",
+    "name": "40U Holt-College UBUS",
+    "color": "#008658"
+  },
+  {
+    "id": "42U",
+    "name": "42U 6th St.-Port Washington Rd. UBUS",
+    "color": "#008658"
+  },
+  {
+    "id": "43",
+    "name": "43 Hales Corners Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "44U",
+    "name": "44U Fair Park-Hales Corners UBUS",
+    "color": "#009933"
+  },
+  {
+    "id": "44",
+    "name": "44 National Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "46",
+    "name": "46 Loomis-Southridge Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "48",
+    "name": "48 South Shore Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "49U",
+    "name": "49U Brown Deer UBUS",
+    "color": "#008658"
+  },
+  {
+    "id": "49",
+    "name": "49 Bayshore-Brown Deer Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "50",
+    "name": "50 Morgan Avenue",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "51",
+    "name": "51 Oklahoma Avenue",
+    "color": "#ec008c"
+  },
+  {
+    "id": "52",
+    "name": "52 Clement-15th Avenue",
+    "color": "#8dc63f"
+  },
+  {
+    "id": "53",
+    "name": "53 Lincoln Avenue",
+    "color": "#00aeef"
+  },
+  {
+    "id": "54",
+    "name": "54 Mitchell-Burnham",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "55",
+    "name": "55 Layton Avenue",
+    "color": "#ed1c24"
+  },
+  {
+    "id": "56",
+    "name": "56 Greenfield Avenue",
+    "color": "#812990"
+  },
+  {
+    "id": "57",
+    "name": "57 Walnut-N. 92nd",
+    "color": "#007dc5"
+  },
+  {
+    "id": "60",
+    "name": "60 Burleigh Street",
+    "color": "#812990"
+  },
+  {
+    "id": "61",
+    "name": "61 Appleton-Keefe",
+    "color": "#007dc5"
+  },
+  {
+    "id": "62",
+    "name": "62 Capitol Drive (Local)",
+    "color": "#812990"
+  },
+  {
+    "id": "63",
+    "name": "63 Silver Spring-Port Washington",
+    "color": "#00aeef"
+  },
+  {
+    "id": "64",
+    "name": "64 S. 60th Street",
+    "color": "#007dc5"
+  },
+  {
+    "id": "67",
+    "name": "67 N. 76th-S. 84th & S. 92nd",
+    "color": "#ffdd00"
+  },
+  {
+    "id": "76",
+    "name": "76 N. 60th-S. 68th & S. 76th",
+    "color": "#b41e8e"
+  },
+  {
+    "id": "79",
+    "name": "79 Menomonee Falls Flyer",
+    "color": "#008658"
+  },
+  {
+    "id": "80",
+    "name": "80 6th Street",
+    "color": "#ec008c"
+  },
+  {
+    "id": "85",
+    "name": "85 Whitman-West",
+    "color": "#8dc63f"
+  },
+  {
+    "id": "87",
+    "name": "87 Nathan Hale-East",
+    "color": "#3333cc"
+  },
+  {
+    "id": "88",
+    "name": "88 Cudahy",
+    "color": "#00aeef"
+  },
+  {
+    "id": "89",
+    "name": "89 St. Francis",
+    "color": "#007dc5"
+  },
+  {
+    "id": "90",
+    "name": "90 Brewers Line - Miller Park",
+    "color": "#c8c8c8"
+  },
+  {
+    "id": "137",
+    "name": "137 House of Corrections",
+    "color": "#00539f"
+  },
+  {
+    "id": "143",
+    "name": "143 Ozaukee County Express",
+    "color": "#8dc63f"
+  },
+  {
+    "id": "219",
+    "name": "219 Oak Creek Shuttle",
+    "color": "#00aeef"
+  },
+  {
+    "id": "223",
+    "name": "223 Park Place-Bradley Woods Shuttle",
+    "color": "#007dc5"
+  },
+  {
+    "id": "276",
+    "name": "276 Brown Deer Shuttle",
+    "color": "#f58220"
+  }
+]

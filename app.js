@@ -1,12 +1,11 @@
 /**
- * Created by ohl1573 on 5/21/17.
+ * Created by Jacob Ohlinger on 5/21/17.
  */
 import express from 'express';
 import profiles from './api/profiles';
 import busroutes from './api/busroutes';
 import * as busDB from './db/busDB';
 import bodyParser from 'body-parser';
-import config from './config';
 
 let app = new express();
 app.use(bodyParser.json());
