@@ -5,6 +5,8 @@ import express from 'express';
 import profiles from './api/profiles';
 import * as busDB from './db/busDB';
 import bodyParser from 'body-parser';
+import config from './config';
+
 let app = new express();
 app.use(bodyParser.json());
 

@@ -1,0 +1,6 @@
+{
+  "mcts": {
+    "apiKey": "http://www.mkecommunitydata.com/dataset/mcts-real-time-bus-data",
+    "url": "http://realtime.ridemcts.com/bustime/api/v2/"
+  }
+}
