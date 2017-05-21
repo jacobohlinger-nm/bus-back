@@ -1,0 +1,29 @@
+{
+  "name": "bus-back",
+  "version": "1.0.0",
+  "description": "backend for bus notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js --exec babel-node --presets env,stage-2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobohlinger-nm/bus-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobohlinger-nm/bus-back/issues"
+  },
+  "homepage": "https://github.com/jacobohlinger-nm/bus-back#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "nodemon": "^1.11.0"
+  }
+}
