@@ -3,6 +3,7 @@
  */
 import express from 'express';
 import profiles from './api/profiles';
+import busroutes from './api/busroutes';
 import * as busDB from './db/busDB';
 import bodyParser from 'body-parser';
 import config from './config';
@@ -12,6 +13,7 @@ app.use(bodyParser.json());
 
 
 app.use('/api/profiles', profiles);
+app.use('/api/busroutes', busroutes);
 
 
 app.get('/', (req, res) => {
