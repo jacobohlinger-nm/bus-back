@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/jacobohlinger-nm/bus-back#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "mongodb": "^2.2.26"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",

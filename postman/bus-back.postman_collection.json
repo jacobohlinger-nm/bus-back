@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "bus-back",
+		"_postman_id": "ec3c0790-f019-4a38-dd84-260f1f955c27",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3001/api/profiles",
+			"request": {
+				"url": "http://localhost:3001/api/profiles",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3001/api/profiles",
+			"request": {
+				"url": "http://localhost:3001/api/profiles/test@email.com",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
